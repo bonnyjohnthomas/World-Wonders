@@ -1,0 +1,29 @@
+
+body{
+    background-image: url(./images/New7Wonders.jpg) ;background-size:cover;
+}
+
+.c1{
+    width: 200px;
+    height: 480px;
+    background-color: rgb(190, 145, 212);
+    margin: 10px;
+    padding: 10px;
+    float: left;
+}
+
+.c2{
+    width: 100%;
+    border: 4px double white;
+}
+
+.c3{
+    text-shadow: 5px 8px 9px;
+}
+
+h1{
+    
+    color: rgb(228, 20, 20);
+    text-shadow: 5px 8px 8px;
+}
+
